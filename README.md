@@ -1,4 +1,5 @@
 🛍️ Store Sales Dashboard (Power BI)
+
 📘 Overview
 
 This project analyzes store sales data using Power BI to understand how factors such as quantity, profit, shipping mode, and region affect overall performance.
